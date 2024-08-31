@@ -23,4 +23,5 @@ Download the files and make sure that your compiler can access them, also change
 # Sprites and sound
 
 Sprites obtained from: https://www.newgrounds.com/ made by Artixium
+
 Sound obtained from: https://www.fiftysounds.com/royalty-free-music/sfx-defeat6.html
